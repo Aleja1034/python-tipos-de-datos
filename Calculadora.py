@@ -3,7 +3,7 @@ print("Ingrese el número 1")
 numero1 = int(input())
 print("Ingrese el número 2")
 numero2 = int(input())
-print("Ingrese la operación (+, -, *, /)")
+print("Ingrese la operación (+, -, *, /, %, **)")
 operacion = input()
 
 match operacion:
